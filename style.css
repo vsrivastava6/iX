@@ -1,0 +1,47 @@
+.banner {
+    background-color: #8ecae6;
+    color: #023047;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.img-thumbnail {
+    height: 400px;
+}
+
+.list-group-item {
+    background-color: #8ecae6;
+    justify-content: space-around;
+}
+
+#ttk {
+color: #023047;
+font-size: 50px;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+body {
+    background-color: #219ebc;
+    }
+    
+   
+#button-addon2 {
+    background-color: #023047;
+    color: white;
+}
+
+#flexSwitchCheckChecked {
+    background-color: #fb8500;
+}
+
+#flexSwitchCheckDefault {
+    background-color: #fb8500;
+}
+
+.btn-group {
+    background-color: #fb8500; 
+}
